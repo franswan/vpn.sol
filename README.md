@@ -6,7 +6,7 @@
 
 Get started by deploying **11ty+Tachyons** to Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/whaleen/11ty-tachyons)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/boringprotocol/vpn.sol)
 
 See the [demo](https://11ty-tachyons.netlify.com) of a Netlify deploy.
 
